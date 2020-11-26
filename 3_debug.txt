@@ -1,0 +1,559 @@
+--- AffineAlgorithm
+ a 253
+ b 47
+
+*** Encrypting 3_in.dat, size 849 -> 3_encrypted.txt ***
+
+--- AffineCodec::encryptStream block #0, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 'P' [1] 'K' [2] 0x03 [3] 0x04 [4] 0x14 [5] 0x00 [6] 0x00 [7] 0x00 [8] 0x08 [9] 0x00 [10] '@' [11] '}' [12] 0xec [13] 'L' [14] 0xa6 [15] 'L' [16] 0xff [17] 0xc3 [18] 0xbb [19] 0x02 [20] 0x00 [21] 0x00 [22] 0xa3 [23] \t
+BigNumberReader::readData - Read 0x504b0304140000000800407dec4ca64cffc3bb020000a309 as 24 bytes
+
+AffineAlgorithm::encrypt 0x504b0304140000000800407dec4ca64cffc3bb020000a309 -> 0x3f4e2623f32f2f2f172f6fb86b4b3d4b32e6fe292f2f4614
+
+--- AffineCodec::encryptStream block #1, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x00 [1] 0x00 [2] 0x08 [3] 0x00 [4] 0x00 [5] 0x00 [6] '3' [7] '_' [8] 'i' [9] 'n' [10] '.' [11] 't' [12] 'x' [13] 't' [14] 0xd5 [15] 'V' [16] 0xdf [17] 'O' [18] 0xdb [19] '0' [20] 0x10 [21] '~' [22] 0xf7 [23] '_'
+BigNumberReader::readData - Read 0x8000000335f696e2e747874d556df4fdb30107ef75f as 24 bytes
+
+AffineAlgorithm::encrypt 0x8000000335f696e2e747874d556df4fdb30107ef75f -> 0x2f2f172f2f2f9612f4e5a5d3c7d3b02d92429e9fffb54a12
+
+--- AffineCodec::encryptStream block #2, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 'q' [1] 0x88 [2] 0x87 [3] 'J' [4] 0xa8 [5] 'E' [6] 'v' [7] 0x9a [8] '8' [9] '?' [10] 0x1e [11] '&' [12] '9' [13] 'M' [14] '"' [15] 0x8d [16] 0xa1 [17] \r [18] 0x81 [19] '4' [20] 0x1e [21] 0xd8 [22] '4' [23] 0x85
+BigNumberReader::readData - Read 0x7188874aa845769a383f1e26394d228da10d81341ed83485 as 24 bytes
+
+AffineAlgorithm::encrypt 0x7188874aa845769a383f1e26394d228da10d81341ed83485 -> 0xdc979a513760cd618772d5bd8448c9884c08ac93d5a793a0
+
+--- AffineCodec::encryptStream block #3, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xc6 [1] 0x14 [2] 'k' [3] '%' [4] '-' [5] 0xae [6] 0x0b [7] 'e' [8] 0x7f [9] 0xfd [10] 0xce [11] 'N' [12] 'F' [13] 'Q' [14] 0x0b [15] 'm' [16] 0xc7 [17] 'x' [18] 0x18 [19] 0x95 [20] 0xda [21] 0xcf [22] 0x8d [23] 0xef
+BigNumberReader::readData - Read 0xc6146b252dae0b657ffdce4e46510b6dc7781895dacf8def as 24 bytes
+
+AffineAlgorithm::encrypt 0xc6146b252dae0b657ffdce4e46510b6dc7781895dacf8def -> 0xddf3eec0a8250e00b238c5455d3c0ee8dac7e770a1c28862
+
+--- AffineCodec::encryptStream block #4, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xce [1] 0xbe [2] 0xfb [3] 0xee [4] 0xbe [5] 'v' [6] 0x7f [7] 0xfd [8] 'E' [9] 0x1a [10] 0x00 [11] 'q' [12] 0xfc [13] 'q' [14] 0x90 [15] 0xc3 [16] 0xe3 [17] 0xb3 [18] 'u' [19] ';' [20] 0x02 [21] ''' [22] 'Z' [23] 0xdd
+BigNumberReader::readData - Read 0xcebefbeebe767ffd451a0071fc7190c3e3b3753b02275add as 24 bytes
+
+AffineAlgorithm::encrypt 0xcebefbeebe767ffd451a0071fc7190c3e3b3753b02275add -> 0xc5f53e65f5cdb23860e12fdc3bdc7fe68616d07e29ba2198
+
+--- AffineCodec::encryptStream block #5, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x95 [1] 'F' [2] 0xc2 [3] 0xe9 [4] 0x99 [5] 0x80 [6] 'O' [7] 0xf2 [8] 0x01 [9] 0xea [10] 0x04 [11] 0xe8 [12] '"' [13] 0xf2 [14] 0xe3 [15] '<' [16] 0xce [17] 'D' [18] 0xe6 [19] '{' [20] 0x1e [21] 0xe3 [22] 0xfd [23] '4'
+BigNumberReader::readData - Read 0x9546c2e999804ff201ea04e822f2e33cce44e67b1ee3fd34 as 24 bytes
+
+AffineAlgorithm::encrypt 0x9546c2e999804ff201ea04e822f2e33cce44e67b1ee3fd34 -> 0x705de97464af42592c712377c959867bc5637dbed5863893
+
+--- AffineCodec::encryptStream block #6, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xf3 [1] '9' [2] 0x17 [3] 0xd9 [4] ' ' [5] \n [6] '9' [7] 'e' [8] 0x19 [9] 'K' [10] 0x19 [11] 0xc8 [12] 0xca [13] 'Z' [14] 0xf9 [15] 'L' [16] '0' [17] 0x9f [18] 0xe7 [19] 0xbc [20] 0x88 [21] '"' [22] '/' [23] 0x10
+BigNumberReader::readData - Read 0xf33917d9200a3965194b19c8ca5af94c309fe7bc88222f10 as 24 bytes
+
+AffineAlgorithm::encrypt 0xf33917d9200a3965194b19c8ca5af94c309fe7bc88222f10 -> 0x5684eaa4cf118400e44ee4d7d121444b9f527afb97c9a2ff
+
+--- AffineCodec::encryptStream block #7, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x81 [1] 0xf0 [2] 'i' [3] 0xda [4] 0xf7 [5] 0x06 [6] 0xe8 [7] 0x95 [8] 0x8a [9] '0' [10] '/' [11] 'B' [12] 0x8c [13] '=' [14] 0xbf [15] 0x1c [16] 0xab [17] '!' [18] 0xbc [19] '&' [20] '6' [21] 0x8b [22] 0x03 [23] 0x1a
+BigNumberReader::readData - Read 0x81f069daf706e8958a302f428c3dbf1cab21bc26368b031a as 24 bytes
+
+AffineAlgorithm::encrypt 0x81f069daf706e8958a302f428c3dbf1cab21bc26368b031a -> 0xac5ff4a14a1d7770919fa2698b78f2db2eccfbbd8d8e26e1
+
+--- AffineCodec::encryptStream block #8, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x12 [1] 0xb2 [2] '!' [3] '7' [4] 'H' [5] 0xbf [6] 0xa4 [7] 0xb0 [8] '1' [9] 0xb7 [10] 0x83 [11] 0x83 [12] 0x03 [13] 0xc8 [14] 0xeb [15] 0xa1 [16] '~' [17] 0x98 [18] 0x1a [19] 'U' [20] 0x8f [21] 0x80 [22] 0xfd [23] 'P'
+BigNumberReader::readData - Read 0x12b2213748bfa4b031b7838303c8eba17e981a558f80fd50 as 24 bytes
+
+AffineAlgorithm::encrypt 0x12b2213748bfa4b031b7838303c8eba17e981a558f80fd50 -> 0xf919cc8a57f2431f9c0aa6a626d76e4cb567e13082af383f
+
+--- AffineCodec::encryptStream block #9, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xf5 [1] 0xa1 [2] 'Y' [3] 0x98 [4] '.' [5] 0xcc [6] 0xd4 [7] '/' [8] \t [9] 0xcc [10] 0x83 [11] 0xde [12] 0x07 [13] '|' [14] '(' [15] 0x1b [16] 0x0b [17] 'Y' [18] 0xd9 [19] '=' [20] '@' [21] 0x1f [22] 'B' [23] '^'
+BigNumberReader::readData - Read 0xf5a159982eccd42f09cc83de077c281b0b59d93d401f425e as 24 bytes
+
+AffineAlgorithm::encrypt 0xf5a159982eccd42f09cc83de077c281b0b59d93d401f425e -> 0x504c2467a5cbb3a214cba6951abbb7de0e24a4786fd26915
+
+--- AffineCodec::encryptStream block #10, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x7f [1] 0xdf [2] '^' [3] 0xaf [4] 'g' [5] 0xb3 [6] 0x1d [7] 'L' [8] '*' [9] '9' [10] 'L' [11] 0x92 [12] '6' [13] 0xf4 [14] 0x99 [15] 0xd1 [16] 0xb2 [17] 0xbc [18] 0x81 [19] 0xe1 [20] 0xf5 [21] 0xbc [22] 0xfe [23] \t
+BigNumberReader::readData - Read 0x7fdf5eaf67b31d4c2a394c9236f499d1b2bc81e1f5bcfe09 as 24 bytes
+
+AffineAlgorithm::encrypt 0x7fdf5eaf67b31d4c2a394c9236f499d1b2bc81e1f5bcfe09 -> 0xb2921522fa16d84bb1844b798d5364bc19fbac8c50fb3514
+
+--- AffineCodec::encryptStream block #11, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xfb [1] 0xb4 [2] 0x0b [3] '7' [4] 0xe5 [5] 0x02 [6] 0xc6 [7] 0xb2 [8] 0x1e [9] 0x99 [10] 'k' [11] '`' [12] '>' [13] 0xa0 [14] 0x0f [15] '!' [16] 0xa9 [17] 0x1a [18] '}' [19] 0x9e [20] 0xdf [21] '\' [22] 'J' [23] '}'
+BigNumberReader::readData - Read 0xfbb40b37e502c6b21e996b603ea00f21a91a7d9edf5c4a7d as 24 bytes
+
+AffineAlgorithm::encrypt 0xfbb40b37e502c6b21e996b603ea00f21a91a7d9edf5c4a7d -> 0x3e130e8a8029dd19d564ee0f754f02cc34e1b855921b51b8
+
+--- AffineCodec::encryptStream block #12, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] '*' [1] 0xcb [2] 'J' [3] 0xea [4] '$' [5] 0xd1 [6] 0x88 [7] 0x80 [8] 0xc1 [9] 0xe4 [10] 0xed [11] '\' [12] 0xce [13] 0xf0 [14] 'v' [15] '0' [16] 0x9c [17] 0xcc [18] 'k' [19] 0x83 [20] 0xf6 [21] ']' [22] '(' [23] 0x87
+BigNumberReader::readData - Read 0x2acb4aea24d18880c1e4ed5ccef076309ccc6b83f65d2887 as 24 bytes
+
+AffineAlgorithm::encrypt 0x2acb4aea24d18880c1e4ed5ccef076309ccc6b83f65d2887 -> 0xb1ce5171c3bc97afec83681bc55fcd9f5bcbeea64d18b79a
+
+--- AffineCodec::encryptStream block #13, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 'f' [1] '^' [2] 0x8e [3] 0x9b [4] 0x07 [5] '6' [6] 0x8d [7] 0xcb [8] 0x07 [9] '#' [10] 'g' [11] '/' [12] 'G' [13] '@' [14] 0xc0 [15] 0x0b [16] 0xf2 [17] '0' [18] 0xf4 [19] '8' [20] 0x0b [21] '9' [22] 0x8f [23] 'C'
+BigNumberReader::readData - Read 0x665e8e9b07368dcb0723672f4740c00bf230f4380b398f43 as 24 bytes
+
+AffineAlgorithm::encrypt 0x665e8e9b07368dcb0723672f4740c00bf230f4380b398f43 -> 0xfd15855e1a8d88ce1ac6faa25a6fef0e599f53870e848266
+
+--- AffineCodec::encryptStream block #14, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x9f [1] '3' [2] '|' [3] 0xc7 [4] 0xbc [5] 0xa0 [6] 0x19 [7] 0x15 [8] 0x04 [9] 0xca [10] 0xd9 [11] 'c' [12] 0x10 [13] 0xb8 [14] 0xa0 [15] 0xdf [16] 0xa1 [17] '3' [18] 0xea [19] 0xc0 [20] 0x05 [21] 'C' [22] 0xd4 [23] 0x88
+BigNumberReader::readData - Read 0x9f337cc7bca0191504cad96310b8a0dfa133eac00543d488 as 24 bytes
+
+AffineAlgorithm::encrypt 0x9f337cc7bca0191504cad96310b8a0dfa133eac00543d488 -> 0x5296bbdafb4fe4f023d1a406ff074f924c9671ef2066b397
+
+--- AffineCodec::encryptStream block #15, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x1e [1] 'b' [2] 0x89 [3] 0xd8 [4] 'G' [5] 0xbc [6] 'C' [7] 0xf4 [8] 0x11 [9] 0x15 [10] 'b' [11] 0x80 [12] 'h' [13] 0x10 [14] 'y' [15] 0xbb [16] 0x1f [17] 0xb6 [18] 0xdf [19] 0xa3 [20] 'v' [21] '?' [22] 'F' [23] 0x9c
+BigNumberReader::readData - Read 0x1e6289d847bc43f411156280681079bb1fb6dfa3763f469c as 24 bytes
+
+AffineAlgorithm::encrypt 0x1e6289d847bc43f411156280681079bb1fb6dfa3763f469c -> 0xd50994a75afb6653fcf009aff7ffc4fed20d9246cd725d5b
+
+--- AffineCodec::encryptStream block #16, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xd8 [1] '8' [2] 0x18 [3] 0xf0 [4] 0x9b [5] 'F' [6] 'd' [7] 0x88 [8] '5' [9] '!' [10] '/' [11] 0x14 [12] 0x07 [13] 0xef [14] 'y' [15] '4' [16] 'Q' [17] '5' [18] 0xd2 [19] 0xd4 [20] 0x96 [21] 0xa9 [22] '*' [23] 'M'
+BigNumberReader::readData - Read 0xd83818f09b46648835212f1407ef79345135d2d496a92a4d as 24 bytes
+
+AffineAlgorithm::encrypt 0xd83818f09b46648835212f1407ef79345135d2d496a92a4d -> 0xa787e75f5e5d039790cca2f31a62c4933c90b9b36d34b148
+
+--- AffineCodec::encryptStream block #17, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] \t [1] 'e' [2] ']' [3] 0x81 [4] '2' [5] 0xb3 [6] 0xb6 [7] 'V' [8] 0x1b [9] 0x92 [10] 0xc0 [11] '-' [12] ':' [13] '@' [14] ':' [15] '7' [16] 0x98 [17] 0xd0 [18] 'A' [19] 's' [20] 0xb8 [21] '=' [22] 's' [23] 0x82
+BigNumberReader::readData - Read 0x9655d8132b3b6561b92c02d3a403a3798d04173b83d7382 as 24 bytes
+
+AffineAlgorithm::encrypt 0x9655d8132b3b6561b92c02d3a403a3798d04173b83d7382 -> 0x140018ac99160d2dde79efa8816f818a67bf6cd60778d6a9
+
+--- AffineCodec::encryptStream block #18, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xd5 [1] 'q' [2] 0x87 [3] 'o' [4] 0xb0 [5] 0xff [6] 0x13 [7] 0x8f [8] 'E' [9] 'E' [10] 0xce [11] 0x05 [12] 0xcd [13] 'x' [14] 0x90 [15] 0x06 [16] 0xa1 [17] '/' [18] 'D' [19] '?' [20] '/' [21] 0xfa [22] 0xb1 [23] 0xcf
+BigNumberReader::readData - Read 0xd571876fb0ff138f4545ce05cd789006a12f443f2ffab1cf as 24 bytes
+
+AffineAlgorithm::encrypt 0xd571876fb0ff138f4545ce05cd789006a12f443f2ffab1cf -> 0xb0dc9ae21f32f6826060c520c8c77f1d4ca26372a2411cc2
+
+--- AffineCodec::encryptStream block #19, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x02 [1] 0xee [2] 0x85 [3] 'Q' [4] ' ' [5] 'R' [6] 'B' [7] 0xee [8] 0xb5 [9] '2' [10] 0xf2 [11] 0xd8 [12] 0xdd [13] 0xf0 [14] 'D' [15] 0xcb [16] '+' [17] 0xb5 [18] 'H' [19] 0x92 [20] ''' [21] 0x8f [22] '0' [23] 0xb1
+BigNumberReader::readData - Read 0x2ee8551205242eeb532f2d8ddf044cb2bb54892278f30b1 as 24 bytes
+
+AffineAlgorithm::encrypt 0x2ee8551205242eeb532f2d8ddf044cb2bb54892278f30b1 -> 0x2965a03ccf396965109959a7985f63ceae105779ba829f1c
+
+--- AffineCodec::encryptStream block #20, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 's' [1] 'U' [2] '!' [3] 'N' [4] 0xdd [5] 0x1e [6] '(' [7] ',' [8] '6' [9] 0xef [10] 0xc2 [11] 0xbd [12] 0x9e [13] 0x18 [14] 'i' [15] 0xa3 [16] 0xd3 [17] '%' [18] 'o' [19] 0xe7 [20] 0xd6 [21] 'K' [22] 0xb7 [23] 0xde
+BigNumberReader::readData - Read 0x7355214edd1e282c36efc2bd9e1869a3d3256fe7d64bb7de as 24 bytes
+
+AffineAlgorithm::encrypt 0x7355214edd1e282c36efc2bd9e1869a3d3256fe7d64bb7de -> 0xd630cc4598d5b7ab8d62e9f855e7f446b6c0e27aad4e0a95
+
+--- AffineCodec::encryptStream block #21, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xd6 [1] 0xcf [2] 0xda [3] 0xec [4] 'p' [5] 0x03 [6] 'G' [7] ' ' [8] '_' [9] 0x12 [10] 'h' [11] 0x8b [12] 0xc1 [13] ',' [14] 0x83 [15] 0xb6 [16] 'y' [17] 0x0b [18] 0xa4 [19] 0xd0 [20] '.' [21] 'r' [22] 0x8e [23] 0x1c
+BigNumberReader::readData - Read 0xd6cfdaec700347205f12688bc12c83b6790ba4d02e728e1c as 24 bytes
+
+AffineAlgorithm::encrypt 0xd6cfdaec700347205f12688bc12c83b6790ba4d02e728e1c -> 0xadc2a16bdf265acf12f9f78eecaba60dc40e43bfa5d985db
+
+--- AffineCodec::encryptStream block #22, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xda [1] 0x85 [2] 0xa0 [3] 'H' [4] 0xa2 [5] ']' [6] 'd' [7] 0xbc [8] 'a' [9] 0xf1 [10] 0xa2 [11] 'e' [12] 0xf1 [13] 0xbc [14] 'e' [15] 0xf1 [16] 0xc8 [17] 0xb2 [18] 0xe8 [19] ',' [20] 0xfb [21] 'H' [22] 0xa3 [23] 0xf3
+BigNumberReader::readData - Read 0xda85a048a25d64bc61f1a265f1bc65f1c8b2e82cfb48a3f3 as 24 bytes
+
+AffineAlgorithm::encrypt 0xda85a048a25d64bc61f1a265f1bc65f1c8b2e82cfb48a3f3 -> 0xa1a04f57491803fb0c5c49005cfb005cd71977ab3e574656
+
+--- AffineCodec::encryptStream block #23, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] '-' [1] 0x1a [2] 0x1e [3] ';' [4] 'q' [5] 0xa7 [6] '!' [7] 0xb2 [8] '#' [9] 0xec [10] 0xc2 [11] 0xb6 [12] 0xc6 [13] 'W' [14] 0xbb [15] 0xb0 [16] 0xbd [17] 0xd1 [18] 0xb1 [19] 0x0b [20] 0xdf [21] 0x1d [22] 0x19 [23] 0xe0
+BigNumberReader::readData - Read 0x2d1a1e3b71a721b223ecc2b6c657bbb0bdd1b10bdf1d19e0 as 24 bytes
+
+AffineAlgorithm::encrypt 0x2d1a1e3b71a721b223ecc2b6c657bbb0bdd1b10bdf1d19e0 -> 0xa8e1d57edc3acc19c66be90ddd2afe1ff8bc1c0e92d8e48f
+
+--- AffineCodec::encryptStream block #24, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] '*' [1] 'p' [2] 0x01 [3] 0xd2 [4] 0x9d [5] 0x06 [6] 0x82 [7] 0xbd [8] 0xed [9] '@' [10] 0xd0 [11] 'v' [12] 0x1e [13] 'H' [14] '3' [15] 0xfa [16] 0xd6 [17] 0xf2 [18] 'J' [19] 0x8d [20] 0xe5 [21] 0xea [22] 0xa4 [23] ';'
+BigNumberReader::readData - Read 0x2a7001d29d0682bded40d0761e4833fad6f24a8de5eaa43b as 24 bytes
+
+AffineAlgorithm::encrypt 0x2a7001d29d0682bded40d0761e4833fad6f24a8de5eaa43b -> 0xb1df2cb9581da9f8686fbfcdd5579641ad5951888071437e
+
+--- AffineCodec::encryptStream block #25, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x11 [1] 'p' [2] 't' [3] 0xe0 [4] 0xd8 [5] 0xfe [6] 0x93 [7] 0x84 [8] 'Z' [9] 0x99 [10] 0xc9 [11] 0xe4 [12] 'R' [13] 'f' [14] 0x96 [15] 0xe7 [16] '<' [17] 'U' [18] 0x9b [19] 0xb0 [20] 'Q' [21] 0x9b [22] 'J' [23] 0xbe
+BigNumberReader::readData - Read 0x117074e0d8fe93845a99c9e4526696e73c559bb0519b4abe as 24 bytes
+
+AffineAlgorithm::encrypt 0x117074e0d8fe93845a99c9e4526696e73c559bb0519b4abe -> 0xfcdfd38fa73576a32164d48339fd6d7a7b305e1f3c5e51f5
+
+--- AffineCodec::encryptStream block #26, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x85 [1] 0xda [2] 'l' [3] 'Q' [4] 0xde [5] 0xd5 [6] 0xb2 [7] 0xe3 [8] 0xc7 [9] '3' [10] ':' [11] 0xb4 [12] 0xa1 [13] 0xce [14] 'O' [15] 0xdb [16] 'y' [17] ')' [18] '!' [19] 0x8c [20] 'v' [21] 0x1d [22] 'K' [23] '+'
+BigNumberReader::readData - Read 0x85da6c51ded5b2e3c7333ab4a1ce4fdb7929218c761d4b2b as 24 bytes
+
+AffineAlgorithm::encrypt 0x85da6c51ded5b2e3c7333ab4a1ce4fdb7929218c761d4b2b -> 0xa0a1eb3c95b01986da9681134cc5429ec4b4cc8bcdd84eae
+
+--- AffineCodec::encryptStream block #27, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xdd [1] 0xbc [2] ';' [3] 'U' [4] '|' [5] 'U' [6] 0xbb [7] 0xf8 [8] 'n' [9] 0xda [10] 0xf5 [11] 0xae [12] ''' [13] '`' [14] 'M' [15] 't' [16] 0xb6 [17] ''' [18] 0xb4 [19] 0x9b [20] 0x92 [21] '=' [22] 0xc7 [23] 'm'
+BigNumberReader::readData - Read 0xddbc3b557c55bbf86edaf5ae27604d74b627b49b923dc76d as 24 bytes
+
+AffineAlgorithm::encrypt 0xddbc3b557c55bbf86edaf5ae27604d74b627b49b923dc76d -> 0x98fb7e30bb30fe47e5a15025ba0f48d30dba135e7978dae8
+
+--- AffineCodec::encryptStream block #28, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x0f [1] 0xce [2] 0xa6 [3] 'c' [4] 'e' [5] '\' [6] '#' [7] 'N' [8] 0xc7 [9] 0xa5 [10] 0xaa [11] 0xff [12] 'R' [13] 'H' [14] 0x9d [15] 0xea [16] 'm' [17] 0x13 [18] 'Z' [19] 0xb2 [20] ']' [21] 0xb3 [22] 0xfe [23] 0x93
+BigNumberReader::readData - Read 0xfcea663655c234ec7a5aaff52489dea6d135ab25db3fe93 as 24 bytes
+
+AffineAlgorithm::encrypt 0xfcea663655c234ec7a5aaff52489dea6d135ab25db3fe93 -> 0x2c53d06001bc645da40313239575871e8f6211918163576
+
+--- AffineCodec::encryptStream block #29, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] '_' [1] 0x9b [2] 0x1d [3] 0xc6 [4] 0x80 [5] '5' [6] 'c' [7] '@' [8] '2' [9] 0xb9 [10] 0xa2 [11] 0x16 [12] 0xce [13] 'z' [14] ']' [15] '-' [16] '<' [17] 'B' [18] 0xf6 [19] 0xf6 [20] 0xf6 [21] 0xa0 [22] '@' [23] 0xa3
+BigNumberReader::readData - Read 0x5f9b1dc68035634032b9a216ce7a5d2d3c42f6f6f6a040a3 as 24 bytes
+
+AffineAlgorithm::encrypt 0x5f9b1dc68035634032b9a216ce7a5d2d3c42f6f6f6a040a3 -> 0x125ed8ddaf90066f990449edc5c118a87b694d4d4d4f6f46
+
+--- AffineCodec::encryptStream block #30, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0xd9 [1] 0xe3 [2] '_' [3] \n [4] '[' [5] 0xe0 [6] '5' [7] 0x97 [8] 'R' [9] 'K' [10] 0x90 [11] 0xb7 [12] 0xd8 [13] 0xed [14] 0x87 [15] 0xe4 [16] '7' [17] 'P' [18] 'K' [19] 0x01 [20] 0x02 [21] '?' [22] 0x00 [23] 0x14
+BigNumberReader::readData - Read 0xd9e35f0a5be03597524b90b7d8ed87e437504b01023f0014 as 24 bytes
+
+AffineAlgorithm::encrypt 0xd9e35f0a5be03597524b90b7d8ed87e437504b01023f0014 -> 0xa48612111e8f906a394e7f0aa7689a838a3f4e2c29722ff3
+
+--- AffineCodec::encryptStream block #31, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0x08 [4] 0x00 [5] '@' [6] '}' [7] 0xec [8] 'L' [9] 0xa6 [10] 'L' [11] 0xff [12] 0xc3 [13] 0xbb [14] 0x02 [15] 0x00 [16] 0x00 [17] 0xa3 [18] \t [19] 0x00 [20] 0x00 [21] 0x08 [22] 0x00 [23] '$'
+BigNumberReader::readData - Read 0x800407dec4ca64cffc3bb020000a3090000080024 as 24 bytes
+
+AffineAlgorithm::encrypt 0x800407dec4ca64cffc3bb020000a3090000080024 -> 0x2f2f2f172f6fb86b4b3d4b32e6fe292f2f46142f2f172fc3
+
+--- AffineCodec::encryptStream block #32, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0x00 [4] 0x00 [5] 0x00 [6] 0x00 [7] 0x80 [8] 0x00 [9] 0x00 [10] 0x00 [11] 0x00 [12] 0x00 [13] 0x00 [14] 0x00 [15] '3' [16] '_' [17] 'i' [18] 'n' [19] '.' [20] 't' [21] 'x' [22] 't' [23] \n
+BigNumberReader::readData - Read 0x8000000000000000335f696e2e7478740a as 24 bytes
+
+AffineAlgorithm::encrypt 0x8000000000000000335f696e2e7478740a -> 0x2f2f2f2f2f2f2faf2f2f2f2f2f2f2f9612f4e5a5d3c7d311
+
+--- AffineCodec::encryptStream block #33, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x00 [1] ' ' [2] 0x00 [3] 0x00 [4] 0x00 [5] 0x00 [6] 0x00 [7] 0x01 [8] 0x00 [9] 0x18 [10] 0x00 [11] '$' [12] 0xbe [13] 0xa6 [14] 0xc7 [15] ' ' [16] 0x1a [17] 0xd4 [18] 0x01 [19] 0xbc [20] 0xb3 [21] 0xcd [22] 0xd1 [23] '$'
+BigNumberReader::readData - Read 0x2000000000000100180024bea6c7201ad401bcb3cdd124 as 24 bytes
+
+AffineAlgorithm::encrypt 0x2000000000000100180024bea6c7201ad401bcb3cdd124 -> 0x2fcf2f2f2f2f2f2c2fe72fc3f53ddacfe1b32cfb16c8bcc3
+
+--- AffineCodec::encryptStream block #34, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x1a [1] 0xd4 [2] 0x01 [3] '$' [4] 0xbe [5] 0xa6 [6] 0xc7 [7] ' ' [8] 0x1a [9] 0xd4 [10] 0x01 [11] 'P' [12] 'K' [13] 0x05 [14] 0x06 [15] 0x00 [16] 0x00 [17] 0x00 [18] 0x00 [19] 0x01 [20] 0x00 [21] 0x01 [22] 0x00 [23] 'Z'
+BigNumberReader::readData - Read 0x1ad40124bea6c7201ad401504b050600000000010001005a as 24 bytes
+
+AffineAlgorithm::encrypt 0x1ad40124bea6c7201ad401504b050600000000010001005a -> 0xe1b32cc3f53ddacfe1b32c3f4e201d2f2f2f2f2c2f2c2f21
+
+--- AffineCodec::encryptStream block #35, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0xe1 [4] 0x02 [5] 0x00 [6] 0x00 [7] 0x00 [8] 0x00
+BigNumberReader::readData - Read 0xe10200000000 as 9 bytes
+
+AffineAlgorithm::encrypt 0xe10200000000 -> 0x2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f8c292f2f2f2f
+
+--- AffineCodec::encryptStream block #36, max length 24 ---
+
+BigNumberReader::readData - Requested count 24 bytes, got
+
+BigNumberReader::readData - Read 0x0 as 0 bytes
+
+Encrypted file 3_encrypted.txt size is 1870
+
+*** Decrypting 3_encrypted.txt, size 1870 -> 3_decrypted.dat ***
+
+--- AffineCodec::decryptStream block #0, length 24 ---
+
+AffineAlgorithm::decrypt 0x3f4e2623f32f2f2f172f6fb86b4b3d4b32e6fe292f2f4614 -> 0x504b0304140000000800407dec4ca64cffc3bb020000a309
+
+BigNumberWriter::writeData - Writing 0x504b0304140000000800407dec4ca64cffc3bb020000a309 as 24 bytes
+ [0] 'P' [1] 'K' [2] 0x03 [3] 0x04 [4] 0x14 [5] 0x00 [6] 0x00 [7] 0x00 [8] 0x08 [9] 0x00 [10] '@' [11] '}' [12] 0xec [13] 'L' [14] 0xa6 [15] 'L' [16] 0xff [17] 0xc3 [18] 0xbb [19] 0x02 [20] 0x00 [21] 0x00 [22] 0xa3 [23] \t
+
+--- AffineCodec::decryptStream block #1, length 24 ---
+
+AffineAlgorithm::decrypt 0x2f2f172f2f2f9612f4e5a5d3c7d3b02d92429e9fffb54a12 -> 0x8000000335f696e2e747874d556df4fdb30107ef75f
+
+BigNumberWriter::writeData - Writing 0x8000000335f696e2e747874d556df4fdb30107ef75f as 24 bytes
+ [0] 0x00 [1] 0x00 [2] 0x08 [3] 0x00 [4] 0x00 [5] 0x00 [6] '3' [7] '_' [8] 'i' [9] 'n' [10] '.' [11] 't' [12] 'x' [13] 't' [14] 0xd5 [15] 'V' [16] 0xdf [17] 'O' [18] 0xdb [19] '0' [20] 0x10 [21] '~' [22] 0xf7 [23] '_'
+
+--- AffineCodec::decryptStream block #2, length 24 ---
+
+AffineAlgorithm::decrypt 0xdc979a513760cd618772d5bd8448c9884c08ac93d5a793a0 -> 0x7188874aa845769a383f1e26394d228da10d81341ed83485
+
+BigNumberWriter::writeData - Writing 0x7188874aa845769a383f1e26394d228da10d81341ed83485 as 24 bytes
+ [0] 'q' [1] 0x88 [2] 0x87 [3] 'J' [4] 0xa8 [5] 'E' [6] 'v' [7] 0x9a [8] '8' [9] '?' [10] 0x1e [11] '&' [12] '9' [13] 'M' [14] '"' [15] 0x8d [16] 0xa1 [17] \r [18] 0x81 [19] '4' [20] 0x1e [21] 0xd8 [22] '4' [23] 0x85
+
+--- AffineCodec::decryptStream block #3, length 24 ---
+
+AffineAlgorithm::decrypt 0xddf3eec0a8250e00b238c5455d3c0ee8dac7e770a1c28862 -> 0xc6146b252dae0b657ffdce4e46510b6dc7781895dacf8def
+
+BigNumberWriter::writeData - Writing 0xc6146b252dae0b657ffdce4e46510b6dc7781895dacf8def as 24 bytes
+ [0] 0xc6 [1] 0x14 [2] 'k' [3] '%' [4] '-' [5] 0xae [6] 0x0b [7] 'e' [8] 0x7f [9] 0xfd [10] 0xce [11] 'N' [12] 'F' [13] 'Q' [14] 0x0b [15] 'm' [16] 0xc7 [17] 'x' [18] 0x18 [19] 0x95 [20] 0xda [21] 0xcf [22] 0x8d [23] 0xef
+
+--- AffineCodec::decryptStream block #4, length 24 ---
+
+AffineAlgorithm::decrypt 0xc5f53e65f5cdb23860e12fdc3bdc7fe68616d07e29ba2198 -> 0xcebefbeebe767ffd451a0071fc7190c3e3b3753b02275add
+
+BigNumberWriter::writeData - Writing 0xcebefbeebe767ffd451a0071fc7190c3e3b3753b02275add as 24 bytes
+ [0] 0xce [1] 0xbe [2] 0xfb [3] 0xee [4] 0xbe [5] 'v' [6] 0x7f [7] 0xfd [8] 'E' [9] 0x1a [10] 0x00 [11] 'q' [12] 0xfc [13] 'q' [14] 0x90 [15] 0xc3 [16] 0xe3 [17] 0xb3 [18] 'u' [19] ';' [20] 0x02 [21] ''' [22] 'Z' [23] 0xdd
+
+--- AffineCodec::decryptStream block #5, length 24 ---
+
+AffineAlgorithm::decrypt 0x705de97464af42592c712377c959867bc5637dbed5863893 -> 0x9546c2e999804ff201ea04e822f2e33cce44e67b1ee3fd34
+
+BigNumberWriter::writeData - Writing 0x9546c2e999804ff201ea04e822f2e33cce44e67b1ee3fd34 as 24 bytes
+ [0] 0x95 [1] 'F' [2] 0xc2 [3] 0xe9 [4] 0x99 [5] 0x80 [6] 'O' [7] 0xf2 [8] 0x01 [9] 0xea [10] 0x04 [11] 0xe8 [12] '"' [13] 0xf2 [14] 0xe3 [15] '<' [16] 0xce [17] 'D' [18] 0xe6 [19] '{' [20] 0x1e [21] 0xe3 [22] 0xfd [23] '4'
+
+--- AffineCodec::decryptStream block #6, length 24 ---
+
+AffineAlgorithm::decrypt 0x5684eaa4cf118400e44ee4d7d121444b9f527afb97c9a2ff -> 0xf33917d9200a3965194b19c8ca5af94c309fe7bc88222f10
+
+BigNumberWriter::writeData - Writing 0xf33917d9200a3965194b19c8ca5af94c309fe7bc88222f10 as 24 bytes
+ [0] 0xf3 [1] '9' [2] 0x17 [3] 0xd9 [4] ' ' [5] \n [6] '9' [7] 'e' [8] 0x19 [9] 'K' [10] 0x19 [11] 0xc8 [12] 0xca [13] 'Z' [14] 0xf9 [15] 'L' [16] '0' [17] 0x9f [18] 0xe7 [19] 0xbc [20] 0x88 [21] '"' [22] '/' [23] 0x10
+
+--- AffineCodec::decryptStream block #7, length 24 ---
+
+AffineAlgorithm::decrypt 0xac5ff4a14a1d7770919fa2698b78f2db2eccfbbd8d8e26e1 -> 0x81f069daf706e8958a302f428c3dbf1cab21bc26368b031a
+
+BigNumberWriter::writeData - Writing 0x81f069daf706e8958a302f428c3dbf1cab21bc26368b031a as 24 bytes
+ [0] 0x81 [1] 0xf0 [2] 'i' [3] 0xda [4] 0xf7 [5] 0x06 [6] 0xe8 [7] 0x95 [8] 0x8a [9] '0' [10] '/' [11] 'B' [12] 0x8c [13] '=' [14] 0xbf [15] 0x1c [16] 0xab [17] '!' [18] 0xbc [19] '&' [20] '6' [21] 0x8b [22] 0x03 [23] 0x1a
+
+--- AffineCodec::decryptStream block #8, length 24 ---
+
+AffineAlgorithm::decrypt 0xf919cc8a57f2431f9c0aa6a626d76e4cb567e13082af383f -> 0x12b2213748bfa4b031b7838303c8eba17e981a558f80fd50
+
+BigNumberWriter::writeData - Writing 0x12b2213748bfa4b031b7838303c8eba17e981a558f80fd50 as 24 bytes
+ [0] 0x12 [1] 0xb2 [2] '!' [3] '7' [4] 'H' [5] 0xbf [6] 0xa4 [7] 0xb0 [8] '1' [9] 0xb7 [10] 0x83 [11] 0x83 [12] 0x03 [13] 0xc8 [14] 0xeb [15] 0xa1 [16] '~' [17] 0x98 [18] 0x1a [19] 'U' [20] 0x8f [21] 0x80 [22] 0xfd [23] 'P'
+
+--- AffineCodec::decryptStream block #9, length 24 ---
+
+AffineAlgorithm::decrypt 0x504c2467a5cbb3a214cba6951abbb7de0e24a4786fd26915 -> 0xf5a159982eccd42f09cc83de077c281b0b59d93d401f425e
+
+BigNumberWriter::writeData - Writing 0xf5a159982eccd42f09cc83de077c281b0b59d93d401f425e as 24 bytes
+ [0] 0xf5 [1] 0xa1 [2] 'Y' [3] 0x98 [4] '.' [5] 0xcc [6] 0xd4 [7] '/' [8] \t [9] 0xcc [10] 0x83 [11] 0xde [12] 0x07 [13] '|' [14] '(' [15] 0x1b [16] 0x0b [17] 'Y' [18] 0xd9 [19] '=' [20] '@' [21] 0x1f [22] 'B' [23] '^'
+
+--- AffineCodec::decryptStream block #10, length 24 ---
+
+AffineAlgorithm::decrypt 0xb2921522fa16d84bb1844b798d5364bc19fbac8c50fb3514 -> 0x7fdf5eaf67b31d4c2a394c9236f499d1b2bc81e1f5bcfe09
+
+BigNumberWriter::writeData - Writing 0x7fdf5eaf67b31d4c2a394c9236f499d1b2bc81e1f5bcfe09 as 24 bytes
+ [0] 0x7f [1] 0xdf [2] '^' [3] 0xaf [4] 'g' [5] 0xb3 [6] 0x1d [7] 'L' [8] '*' [9] '9' [10] 'L' [11] 0x92 [12] '6' [13] 0xf4 [14] 0x99 [15] 0xd1 [16] 0xb2 [17] 0xbc [18] 0x81 [19] 0xe1 [20] 0xf5 [21] 0xbc [22] 0xfe [23] \t
+
+--- AffineCodec::decryptStream block #11, length 24 ---
+
+AffineAlgorithm::decrypt 0x3e130e8a8029dd19d564ee0f754f02cc34e1b855921b51b8 -> 0xfbb40b37e502c6b21e996b603ea00f21a91a7d9edf5c4a7d
+
+BigNumberWriter::writeData - Writing 0xfbb40b37e502c6b21e996b603ea00f21a91a7d9edf5c4a7d as 24 bytes
+ [0] 0xfb [1] 0xb4 [2] 0x0b [3] '7' [4] 0xe5 [5] 0x02 [6] 0xc6 [7] 0xb2 [8] 0x1e [9] 0x99 [10] 'k' [11] '`' [12] '>' [13] 0xa0 [14] 0x0f [15] '!' [16] 0xa9 [17] 0x1a [18] '}' [19] 0x9e [20] 0xdf [21] '\' [22] 'J' [23] '}'
+
+--- AffineCodec::decryptStream block #12, length 24 ---
+
+AffineAlgorithm::decrypt 0xb1ce5171c3bc97afec83681bc55fcd9f5bcbeea64d18b79a -> 0x2acb4aea24d18880c1e4ed5ccef076309ccc6b83f65d2887
+
+BigNumberWriter::writeData - Writing 0x2acb4aea24d18880c1e4ed5ccef076309ccc6b83f65d2887 as 24 bytes
+ [0] '*' [1] 0xcb [2] 'J' [3] 0xea [4] '$' [5] 0xd1 [6] 0x88 [7] 0x80 [8] 0xc1 [9] 0xe4 [10] 0xed [11] '\' [12] 0xce [13] 0xf0 [14] 'v' [15] '0' [16] 0x9c [17] 0xcc [18] 'k' [19] 0x83 [20] 0xf6 [21] ']' [22] '(' [23] 0x87
+
+--- AffineCodec::decryptStream block #13, length 24 ---
+
+AffineAlgorithm::decrypt 0xfd15855e1a8d88ce1ac6faa25a6fef0e599f53870e848266 -> 0x665e8e9b07368dcb0723672f4740c00bf230f4380b398f43
+
+BigNumberWriter::writeData - Writing 0x665e8e9b07368dcb0723672f4740c00bf230f4380b398f43 as 24 bytes
+ [0] 'f' [1] '^' [2] 0x8e [3] 0x9b [4] 0x07 [5] '6' [6] 0x8d [7] 0xcb [8] 0x07 [9] '#' [10] 'g' [11] '/' [12] 'G' [13] '@' [14] 0xc0 [15] 0x0b [16] 0xf2 [17] '0' [18] 0xf4 [19] '8' [20] 0x0b [21] '9' [22] 0x8f [23] 'C'
+
+--- AffineCodec::decryptStream block #14, length 24 ---
+
+AffineAlgorithm::decrypt 0x5296bbdafb4fe4f023d1a406ff074f924c9671ef2066b397 -> 0x9f337cc7bca0191504cad96310b8a0dfa133eac00543d488
+
+BigNumberWriter::writeData - Writing 0x9f337cc7bca0191504cad96310b8a0dfa133eac00543d488 as 24 bytes
+ [0] 0x9f [1] '3' [2] '|' [3] 0xc7 [4] 0xbc [5] 0xa0 [6] 0x19 [7] 0x15 [8] 0x04 [9] 0xca [10] 0xd9 [11] 'c' [12] 0x10 [13] 0xb8 [14] 0xa0 [15] 0xdf [16] 0xa1 [17] '3' [18] 0xea [19] 0xc0 [20] 0x05 [21] 'C' [22] 0xd4 [23] 0x88
+
+--- AffineCodec::decryptStream block #15, length 24 ---
+
+AffineAlgorithm::decrypt 0xd50994a75afb6653fcf009aff7ffc4fed20d9246cd725d5b -> 0x1e6289d847bc43f411156280681079bb1fb6dfa3763f469c
+
+BigNumberWriter::writeData - Writing 0x1e6289d847bc43f411156280681079bb1fb6dfa3763f469c as 24 bytes
+ [0] 0x1e [1] 'b' [2] 0x89 [3] 0xd8 [4] 'G' [5] 0xbc [6] 'C' [7] 0xf4 [8] 0x11 [9] 0x15 [10] 'b' [11] 0x80 [12] 'h' [13] 0x10 [14] 'y' [15] 0xbb [16] 0x1f [17] 0xb6 [18] 0xdf [19] 0xa3 [20] 'v' [21] '?' [22] 'F' [23] 0x9c
+
+--- AffineCodec::decryptStream block #16, length 24 ---
+
+AffineAlgorithm::decrypt 0xa787e75f5e5d039790cca2f31a62c4933c90b9b36d34b148 -> 0xd83818f09b46648835212f1407ef79345135d2d496a92a4d
+
+BigNumberWriter::writeData - Writing 0xd83818f09b46648835212f1407ef79345135d2d496a92a4d as 24 bytes
+ [0] 0xd8 [1] '8' [2] 0x18 [3] 0xf0 [4] 0x9b [5] 'F' [6] 'd' [7] 0x88 [8] '5' [9] '!' [10] '/' [11] 0x14 [12] 0x07 [13] 0xef [14] 'y' [15] '4' [16] 'Q' [17] '5' [18] 0xd2 [19] 0xd4 [20] 0x96 [21] 0xa9 [22] '*' [23] 'M'
+
+--- AffineCodec::decryptStream block #17, length 24 ---
+
+AffineAlgorithm::decrypt 0x140018ac99160d2dde79efa8816f818a67bf6cd60778d6a9 -> 0x9655d8132b3b6561b92c02d3a403a3798d04173b83d7382
+
+BigNumberWriter::writeData - Writing 0x9655d8132b3b6561b92c02d3a403a3798d04173b83d7382 as 24 bytes
+ [0] \t [1] 'e' [2] ']' [3] 0x81 [4] '2' [5] 0xb3 [6] 0xb6 [7] 'V' [8] 0x1b [9] 0x92 [10] 0xc0 [11] '-' [12] ':' [13] '@' [14] ':' [15] '7' [16] 0x98 [17] 0xd0 [18] 'A' [19] 's' [20] 0xb8 [21] '=' [22] 's' [23] 0x82
+
+--- AffineCodec::decryptStream block #18, length 24 ---
+
+AffineAlgorithm::decrypt 0xb0dc9ae21f32f6826060c520c8c77f1d4ca26372a2411cc2 -> 0xd571876fb0ff138f4545ce05cd789006a12f443f2ffab1cf
+
+BigNumberWriter::writeData - Writing 0xd571876fb0ff138f4545ce05cd789006a12f443f2ffab1cf as 24 bytes
+ [0] 0xd5 [1] 'q' [2] 0x87 [3] 'o' [4] 0xb0 [5] 0xff [6] 0x13 [7] 0x8f [8] 'E' [9] 'E' [10] 0xce [11] 0x05 [12] 0xcd [13] 'x' [14] 0x90 [15] 0x06 [16] 0xa1 [17] '/' [18] 'D' [19] '?' [20] '/' [21] 0xfa [22] 0xb1 [23] 0xcf
+
+--- AffineCodec::decryptStream block #19, length 24 ---
+
+AffineAlgorithm::decrypt 0x2965a03ccf396965109959a7985f63ceae105779ba829f1c -> 0x2ee8551205242eeb532f2d8ddf044cb2bb54892278f30b1
+
+BigNumberWriter::writeData - Writing 0x2ee8551205242eeb532f2d8ddf044cb2bb54892278f30b1 as 24 bytes
+ [0] 0x02 [1] 0xee [2] 0x85 [3] 'Q' [4] ' ' [5] 'R' [6] 'B' [7] 0xee [8] 0xb5 [9] '2' [10] 0xf2 [11] 0xd8 [12] 0xdd [13] 0xf0 [14] 'D' [15] 0xcb [16] '+' [17] 0xb5 [18] 'H' [19] 0x92 [20] ''' [21] 0x8f [22] '0' [23] 0xb1
+
+--- AffineCodec::decryptStream block #20, length 24 ---
+
+AffineAlgorithm::decrypt 0xd630cc4598d5b7ab8d62e9f855e7f446b6c0e27aad4e0a95 -> 0x7355214edd1e282c36efc2bd9e1869a3d3256fe7d64bb7de
+
+BigNumberWriter::writeData - Writing 0x7355214edd1e282c36efc2bd9e1869a3d3256fe7d64bb7de as 24 bytes
+ [0] 's' [1] 'U' [2] '!' [3] 'N' [4] 0xdd [5] 0x1e [6] '(' [7] ',' [8] '6' [9] 0xef [10] 0xc2 [11] 0xbd [12] 0x9e [13] 0x18 [14] 'i' [15] 0xa3 [16] 0xd3 [17] '%' [18] 'o' [19] 0xe7 [20] 0xd6 [21] 'K' [22] 0xb7 [23] 0xde
+
+--- AffineCodec::decryptStream block #21, length 24 ---
+
+AffineAlgorithm::decrypt 0xadc2a16bdf265acf12f9f78eecaba60dc40e43bfa5d985db -> 0xd6cfdaec700347205f12688bc12c83b6790ba4d02e728e1c
+
+BigNumberWriter::writeData - Writing 0xd6cfdaec700347205f12688bc12c83b6790ba4d02e728e1c as 24 bytes
+ [0] 0xd6 [1] 0xcf [2] 0xda [3] 0xec [4] 'p' [5] 0x03 [6] 'G' [7] ' ' [8] '_' [9] 0x12 [10] 'h' [11] 0x8b [12] 0xc1 [13] ',' [14] 0x83 [15] 0xb6 [16] 'y' [17] 0x0b [18] 0xa4 [19] 0xd0 [20] '.' [21] 'r' [22] 0x8e [23] 0x1c
+
+--- AffineCodec::decryptStream block #22, length 24 ---
+
+AffineAlgorithm::decrypt 0xa1a04f57491803fb0c5c49005cfb005cd71977ab3e574656 -> 0xda85a048a25d64bc61f1a265f1bc65f1c8b2e82cfb48a3f3
+
+BigNumberWriter::writeData - Writing 0xda85a048a25d64bc61f1a265f1bc65f1c8b2e82cfb48a3f3 as 24 bytes
+ [0] 0xda [1] 0x85 [2] 0xa0 [3] 'H' [4] 0xa2 [5] ']' [6] 'd' [7] 0xbc [8] 'a' [9] 0xf1 [10] 0xa2 [11] 'e' [12] 0xf1 [13] 0xbc [14] 'e' [15] 0xf1 [16] 0xc8 [17] 0xb2 [18] 0xe8 [19] ',' [20] 0xfb [21] 'H' [22] 0xa3 [23] 0xf3
+
+--- AffineCodec::decryptStream block #23, length 24 ---
+
+AffineAlgorithm::decrypt 0xa8e1d57edc3acc19c66be90ddd2afe1ff8bc1c0e92d8e48f -> 0x2d1a1e3b71a721b223ecc2b6c657bbb0bdd1b10bdf1d19e0
+
+BigNumberWriter::writeData - Writing 0x2d1a1e3b71a721b223ecc2b6c657bbb0bdd1b10bdf1d19e0 as 24 bytes
+ [0] '-' [1] 0x1a [2] 0x1e [3] ';' [4] 'q' [5] 0xa7 [6] '!' [7] 0xb2 [8] '#' [9] 0xec [10] 0xc2 [11] 0xb6 [12] 0xc6 [13] 'W' [14] 0xbb [15] 0xb0 [16] 0xbd [17] 0xd1 [18] 0xb1 [19] 0x0b [20] 0xdf [21] 0x1d [22] 0x19 [23] 0xe0
+
+--- AffineCodec::decryptStream block #24, length 24 ---
+
+AffineAlgorithm::decrypt 0xb1df2cb9581da9f8686fbfcdd5579641ad5951888071437e -> 0x2a7001d29d0682bded40d0761e4833fad6f24a8de5eaa43b
+
+BigNumberWriter::writeData - Writing 0x2a7001d29d0682bded40d0761e4833fad6f24a8de5eaa43b as 24 bytes
+ [0] '*' [1] 'p' [2] 0x01 [3] 0xd2 [4] 0x9d [5] 0x06 [6] 0x82 [7] 0xbd [8] 0xed [9] '@' [10] 0xd0 [11] 'v' [12] 0x1e [13] 'H' [14] '3' [15] 0xfa [16] 0xd6 [17] 0xf2 [18] 'J' [19] 0x8d [20] 0xe5 [21] 0xea [22] 0xa4 [23] ';'
+
+--- AffineCodec::decryptStream block #25, length 24 ---
+
+AffineAlgorithm::decrypt 0xfcdfd38fa73576a32164d48339fd6d7a7b305e1f3c5e51f5 -> 0x117074e0d8fe93845a99c9e4526696e73c559bb0519b4abe
+
+BigNumberWriter::writeData - Writing 0x117074e0d8fe93845a99c9e4526696e73c559bb0519b4abe as 24 bytes
+ [0] 0x11 [1] 'p' [2] 't' [3] 0xe0 [4] 0xd8 [5] 0xfe [6] 0x93 [7] 0x84 [8] 'Z' [9] 0x99 [10] 0xc9 [11] 0xe4 [12] 'R' [13] 'f' [14] 0x96 [15] 0xe7 [16] '<' [17] 'U' [18] 0x9b [19] 0xb0 [20] 'Q' [21] 0x9b [22] 'J' [23] 0xbe
+
+--- AffineCodec::decryptStream block #26, length 24 ---
+
+AffineAlgorithm::decrypt 0xa0a1eb3c95b01986da9681134cc5429ec4b4cc8bcdd84eae -> 0x85da6c51ded5b2e3c7333ab4a1ce4fdb7929218c761d4b2b
+
+BigNumberWriter::writeData - Writing 0x85da6c51ded5b2e3c7333ab4a1ce4fdb7929218c761d4b2b as 24 bytes
+ [0] 0x85 [1] 0xda [2] 'l' [3] 'Q' [4] 0xde [5] 0xd5 [6] 0xb2 [7] 0xe3 [8] 0xc7 [9] '3' [10] ':' [11] 0xb4 [12] 0xa1 [13] 0xce [14] 'O' [15] 0xdb [16] 'y' [17] ')' [18] '!' [19] 0x8c [20] 'v' [21] 0x1d [22] 'K' [23] '+'
+
+--- AffineCodec::decryptStream block #27, length 24 ---
+
+AffineAlgorithm::decrypt 0x98fb7e30bb30fe47e5a15025ba0f48d30dba135e7978dae8 -> 0xddbc3b557c55bbf86edaf5ae27604d74b627b49b923dc76d
+
+BigNumberWriter::writeData - Writing 0xddbc3b557c55bbf86edaf5ae27604d74b627b49b923dc76d as 24 bytes
+ [0] 0xdd [1] 0xbc [2] ';' [3] 'U' [4] '|' [5] 'U' [6] 0xbb [7] 0xf8 [8] 'n' [9] 0xda [10] 0xf5 [11] 0xae [12] ''' [13] '`' [14] 'M' [15] 't' [16] 0xb6 [17] ''' [18] 0xb4 [19] 0x9b [20] 0x92 [21] '=' [22] 0xc7 [23] 'm'
+
+--- AffineCodec::decryptStream block #28, length 24 ---
+
+AffineAlgorithm::decrypt 0x2c53d06001bc645da40313239575871e8f6211918163576 -> 0xfcea663655c234ec7a5aaff52489dea6d135ab25db3fe93
+
+BigNumberWriter::writeData - Writing 0xfcea663655c234ec7a5aaff52489dea6d135ab25db3fe93 as 24 bytes
+ [0] 0x0f [1] 0xce [2] 0xa6 [3] 'c' [4] 'e' [5] '\' [6] '#' [7] 'N' [8] 0xc7 [9] 0xa5 [10] 0xaa [11] 0xff [12] 'R' [13] 'H' [14] 0x9d [15] 0xea [16] 'm' [17] 0x13 [18] 'Z' [19] 0xb2 [20] ']' [21] 0xb3 [22] 0xfe [23] 0x93
+
+--- AffineCodec::decryptStream block #29, length 24 ---
+
+AffineAlgorithm::decrypt 0x125ed8ddaf90066f990449edc5c118a87b694d4d4d4f6f46 -> 0x5f9b1dc68035634032b9a216ce7a5d2d3c42f6f6f6a040a3
+
+BigNumberWriter::writeData - Writing 0x5f9b1dc68035634032b9a216ce7a5d2d3c42f6f6f6a040a3 as 24 bytes
+ [0] '_' [1] 0x9b [2] 0x1d [3] 0xc6 [4] 0x80 [5] '5' [6] 'c' [7] '@' [8] '2' [9] 0xb9 [10] 0xa2 [11] 0x16 [12] 0xce [13] 'z' [14] ']' [15] '-' [16] '<' [17] 'B' [18] 0xf6 [19] 0xf6 [20] 0xf6 [21] 0xa0 [22] '@' [23] 0xa3
+
+--- AffineCodec::decryptStream block #30, length 24 ---
+
+AffineAlgorithm::decrypt 0xa48612111e8f906a394e7f0aa7689a838a3f4e2c29722ff3 -> 0xd9e35f0a5be03597524b90b7d8ed87e437504b01023f0014
+
+BigNumberWriter::writeData - Writing 0xd9e35f0a5be03597524b90b7d8ed87e437504b01023f0014 as 24 bytes
+ [0] 0xd9 [1] 0xe3 [2] '_' [3] \n [4] '[' [5] 0xe0 [6] '5' [7] 0x97 [8] 'R' [9] 'K' [10] 0x90 [11] 0xb7 [12] 0xd8 [13] 0xed [14] 0x87 [15] 0xe4 [16] '7' [17] 'P' [18] 'K' [19] 0x01 [20] 0x02 [21] '?' [22] 0x00 [23] 0x14
+
+--- AffineCodec::decryptStream block #31, length 24 ---
+
+AffineAlgorithm::decrypt 0x2f2f2f172f6fb86b4b3d4b32e6fe292f2f46142f2f172fc3 -> 0x800407dec4ca64cffc3bb020000a3090000080024
+
+BigNumberWriter::writeData - Writing 0x800407dec4ca64cffc3bb020000a3090000080024 as 24 bytes
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0x08 [4] 0x00 [5] '@' [6] '}' [7] 0xec [8] 'L' [9] 0xa6 [10] 'L' [11] 0xff [12] 0xc3 [13] 0xbb [14] 0x02 [15] 0x00 [16] 0x00 [17] 0xa3 [18] \t [19] 0x00 [20] 0x00 [21] 0x08 [22] 0x00 [23] '$'
+
+--- AffineCodec::decryptStream block #32, length 24 ---
+
+AffineAlgorithm::decrypt 0x2f2f2f2f2f2f2faf2f2f2f2f2f2f2f9612f4e5a5d3c7d311 -> 0x8000000000000000335f696e2e7478740a
+
+BigNumberWriter::writeData - Writing 0x8000000000000000335f696e2e7478740a as 24 bytes
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0x00 [4] 0x00 [5] 0x00 [6] 0x00 [7] 0x80 [8] 0x00 [9] 0x00 [10] 0x00 [11] 0x00 [12] 0x00 [13] 0x00 [14] 0x00 [15] '3' [16] '_' [17] 'i' [18] 'n' [19] '.' [20] 't' [21] 'x' [22] 't' [23] \n
+
+--- AffineCodec::decryptStream block #33, length 24 ---
+
+AffineAlgorithm::decrypt 0x2fcf2f2f2f2f2f2c2fe72fc3f53ddacfe1b32cfb16c8bcc3 -> 0x2000000000000100180024bea6c7201ad401bcb3cdd124
+
+BigNumberWriter::writeData - Writing 0x2000000000000100180024bea6c7201ad401bcb3cdd124 as 24 bytes
+ [0] 0x00 [1] ' ' [2] 0x00 [3] 0x00 [4] 0x00 [5] 0x00 [6] 0x00 [7] 0x01 [8] 0x00 [9] 0x18 [10] 0x00 [11] '$' [12] 0xbe [13] 0xa6 [14] 0xc7 [15] ' ' [16] 0x1a [17] 0xd4 [18] 0x01 [19] 0xbc [20] 0xb3 [21] 0xcd [22] 0xd1 [23] '$'
+
+--- AffineCodec::decryptStream block #34, length 24 ---
+
+AffineAlgorithm::decrypt 0xe1b32cc3f53ddacfe1b32c3f4e201d2f2f2f2f2c2f2c2f21 -> 0x1ad40124bea6c7201ad401504b050600000000010001005a
+
+BigNumberWriter::writeData - Writing 0x1ad40124bea6c7201ad401504b050600000000010001005a as 24 bytes
+ [0] 0x1a [1] 0xd4 [2] 0x01 [3] '$' [4] 0xbe [5] 0xa6 [6] 0xc7 [7] ' ' [8] 0x1a [9] 0xd4 [10] 0x01 [11] 'P' [12] 'K' [13] 0x05 [14] 0x06 [15] 0x00 [16] 0x00 [17] 0x00 [18] 0x00 [19] 0x01 [20] 0x00 [21] 0x01 [22] 0x00 [23] 'Z'
+
+--- AffineCodec::decryptStream block #35, length 9 ---
+
+AffineAlgorithm::decrypt 0x2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f8c292f2f2f2f -> 0xe10200000000
+
+BigNumberWriter::writeData - Writing 0xe10200000000 as 9 bytes
+ [0] 0x00 [1] 0x00 [2] 0x00 [3] 0xe1 [4] 0x02 [5] 0x00 [6] 0x00 [7] 0x00 [8] 0x00
+
+Decrypted file 3_decrypted.dat size is 849
+
+>>> Files 3_in.dat and 3_decrypted.dat are equal.
