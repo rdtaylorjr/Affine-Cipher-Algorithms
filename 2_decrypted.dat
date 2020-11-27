@@ -1,0 +1,55 @@
+HuffmanAlgorithm Class
+
+See HuffmanAlgorithm-pseudocode.txt for a partial pseudocode of HuffmanAlgorithm class. 
+Use the pseudocode to implement HuffmanAlgorithm class in a language of your choice, more or less from a scratch. 
+
+HuffmanAlgorithm External Functions
+
+HuffmanAlgorithm class has to have the following external functions that can be implemented 
+as public methods or global functions, depending on your language.
+
+•	countCharacters() that reads data from a given input stream and builds the frequency 
+    array. So FrequencyArray[Character] == number of times the Character happens in the input stream.
+•	buildHuffmanTree() that builds the Haffman tree corresponding to the frequency array.
+•	makeBitData() that builds the bit data array based on the Huffman tree. 
+    So BitDataArray[Character] == bit sequence representing the Character in Huffman encoding. 
+    The function calls makeTreeBitData() internal function to do the actual work.
+•	outputEncoded() that encodes a given array of characters, using the bit 
+    data array, to a given BitWriter stream.
+•	inputDecoded() that decodes a given BitReader stream, using the Huffman tree, 
+    to a given array of characters.
+
+HuffmanAlgorithm Internal Functions
+
+The pseudocode contains few internal functions that can be implemented as public methods, 
+global functions, or anonymous namespace functions, depending on your language.
+
+printFrequency() and printQueue() are  used to print debugging information. 
+
+buildHuffmanTree() Function
+
+buildHuffmanTree() function shall use a priority queue of Huffman trees. In the beginning, 
+for each Character, create one node tree and add it to the queue. Then, for each two 
+least frequent trees, remove them from the queue, combine them in one new tree, and place 
+the new tree back in the queue.
+One tree is less than another tree if its root node frequency is less than another 
+tree root node frequency. You will, probably, need to define an appropriate tree 
+comparison lambda closure and use it to setup the priority queue. 
+
+If your language does not have a priority queue class, use a heap. The priority 
+queue is essentially a wrapper around the heap.
+ 
+makeBitData() and makeTreeBitData() functions
+
+makeTreeBitData() is an internal recursive function that does the actual work of 
+building the bit data array. It is called by makeBitData() function. In addition 
+to the huffmanTree input parameter and the bitDataArray output parameter, it has 
+two more parameters
+
+•	pathBitData that is the bit sequence corresponding to the path from the tree root to the current node
+•	currentBit that is the bit corresponding to the current node, 0 for left nodes, 1 for right nodes.
+
+The function has also to take care of three edge cases
+•	When the huffmanTree node is null
+•	When the huffmanTree consists of exactly one node
+•	When there is no currentBit yet (at tree root node)
