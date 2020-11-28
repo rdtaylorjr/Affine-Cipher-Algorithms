@@ -3,4 +3,4 @@
  
  Programming Language: C++
 
-# CSC 255 Objects and Algorithms Lab 7 Extra Credit
+<!-- CSC 255 Objects and Algorithms Lab 7 Extra Credit -->
